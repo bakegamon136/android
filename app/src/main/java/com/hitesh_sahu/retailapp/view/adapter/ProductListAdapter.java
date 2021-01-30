@@ -89,9 +89,10 @@ public class ProductListAdapter extends
         holder.itemName.setText(productList.get(position)
                 .getItemName());
 
+        String cost = (String.format("%,d", Long.valueOf(productList.get(position)
+                .getSellMRP()))).replace(',', ' ');
 
-        holder.itemCost.setText(productList.get(position)
-                .getSellMRP());
+        holder.itemCost.setText(cost  + "$");
 
         if (productList.get(position)
                 .getItemShortDesc() != null) holder.itemDesc.setText(productList.get(position)

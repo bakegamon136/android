@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrungNghiaAndroid-master.iml" filepath="$PROJECT_DIR$/.idea/modules/TrungNghiaAndroid-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TrungNghiaAndroid-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TrungNghiaAndroid-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DoanAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/DoanAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DoanAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DoanAndroid.app.iml" />
     </modules>
   </component>
 </project>
